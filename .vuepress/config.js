@@ -1,6 +1,6 @@
 module.exports = {
     title: '주니어 백엔드 개발자 인터뷰',
-    description: '지금까지 지원한 기업들의 지원서를 몰아보자',
+    description: 'CS 공부를 위한 저장소',
     base: "/junior-be-interview/",
     dest: 'build',
     themeConfig: {
@@ -20,6 +20,7 @@ module.exports = {
                     '/01_디자인패턴/05_프로토타입',
                     '/01_디자인패턴/06_어댑터',
                     '/01_디자인패턴/07_브릿지',
+                    '/01_디자인패턴/08_컴포짓',
                 ]
             }
         ]
