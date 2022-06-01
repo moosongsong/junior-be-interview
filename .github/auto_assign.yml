@@ -1,0 +1,12 @@
+addReviewers: true
+
+addAssignees: true
+
+reviewers:
+  - moosongsong
+  - eunn-jin
+
+skipKeywords:
+  - wip
+
+numberOfReviewers: 0
