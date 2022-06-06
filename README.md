@@ -41,18 +41,18 @@ BE 주니어라면 다 알아야 하는 CS 지식
 
 ## 📐 자료구조
 
-| 제목               | 작성자 |
-|------------------|-----|
-| [시간복잡도와 공간복잡도]() | 미정  |
-| [배열]()           | 미정  |
-| [배열 연결리스트]()     | 미정  |
-| [백터]()           | 미정  |
-| [스택]()           | 미정  |
-| [큐]()            | 미정  |
-| [그래프]()          | 미정  |
-| [트리]()           | 미정  |
-| [힙]()            | 미정  |
-| [우선순위 큐]()       | 미정  |
-| [맵]()            | 미정  |
-| [셋]()            | 미정  |
-| [해시테이블]()        | 미정  |
+| 제목               | 작성자                                   |
+|------------------|---------------------------------------|
+| [시간복잡도와 공간복잡도]() | [조은진](https://github.com/eunn-jin)    |
+| [배열]()           | [송무송](https://github.com/moosongsong) |
+| [연결리스트]()        | [조은진](https://github.com/eunn-jin)    |
+| [백터]()           | [조은진](https://github.com/eunn-jin)    |
+| [스택]()           | [송무송](https://github.com/moosongsong) |
+| [큐]()            | [송무송](https://github.com/moosongsong) |
+| [그래프]()          | [조은진](https://github.com/eunn-jin)    |
+| [트리]()           | [송무송](https://github.com/moosongsong) |
+| [힙]()            | [조은진](https://github.com/eunn-jin)    |
+| [우선순위 큐]()       | [송무송](https://github.com/moosongsong) |
+| [맵]()            | [조은진](https://github.com/eunn-jin)    |
+| [셋]()            | [송무송](https://github.com/moosongsong) |
+| [해시테이블]()        | [조은진](https://github.com/eunn-jin)    |
