@@ -17,7 +17,7 @@ BE 주니어라면 다 알아야 하는 CS 지식
 |----------------------------------------------------------|---------------------------------------|
 | [싱글톤 (Singleton)](./01_디자인패턴/01_싱글톤.md)                  | [조은진](https://github.com/eunn-jin)    |
 | [팩토리 메소드 (Factory Method)](./01_디자인패턴/02_팩토리메소드.md)      | [조은진](https://github.com/eunn-jin)    |
-| [추상 팩토리 (Abstract Factory)](./01_디자인패턴/03_추상펙토리.md)      | [조은진](https://github.com/eunn-jin)    |
+| [추상 팩토리 (Abstract Factory)](./01_디자인패턴/03_추상팩토리.md)      | [조은진](https://github.com/eunn-jin)    |
 | [빌더 (Builder)](./01_디자인패턴/04_빌더.md)                      | [조은진](https://github.com/eunn-jin)    |
 | [프로토타입 (Prototype)](./01_디자인패턴/05_프로토타입.md)              | [조은진](https://github.com/eunn-jin)    |
 | [어댑터 (Adapter)](./01_디자인패턴/06_어댑터.md)                    | [조은진](https://github.com/eunn-jin)    |
