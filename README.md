@@ -43,7 +43,7 @@ BE 주니어라면 다 알아야 하는 CS 지식
 
 | 제목               | 작성자                                   |
 |------------------|---------------------------------------|
-| [시간복잡도와 공간복잡도]() | [조은진](https://github.com/eunn-jin)    |
+| [시간복잡도와 공간복잡도](./02_자료구조/01_시공간복잡도.md) | [조은진](https://github.com/eunn-jin)    |
 | [배열]()           | [송무송](https://github.com/moosongsong) |
 | [연결리스트]()        | [조은진](https://github.com/eunn-jin)    |
 | [백터]()           | [조은진](https://github.com/eunn-jin)    |
