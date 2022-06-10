@@ -11,6 +11,25 @@ BE 주니어라면 다 알아야 하는 CS 지식
 - 1시간 반가량의 정리가 끝나면, 각자 15분씩 발표를 진행해요.
 - 그냥 자신이 .md로 저장한 내용을 한 번 더 설명해주는 느낌이에요.
 
+## 📐 자료구조
+
+| 제목                                     | 작성자                                                                       |
+|----------------------------------------|---------------------------------------------------------------------------|
+| [시간복잡도와 공간복잡도](./02_자료구조/01_시공간복잡도.md) | [조은진](https://github.com/eunn-jin)                                        |
+| [배열](./02_자료구조/02_배열.md)               | [송무송](https://github.com/moosongsong)                                     |
+| [연결리스트](./02_자료구조/03_연결리스트.md)         | [조은진](https://github.com/eunn-jin)                                        |
+| [백터](./02_자료구조/04_백터.md)               | [조은진](https://github.com/eunn-jin)                                        |
+| [스택](./02_자료구조/05_스택.md)               | [송무송](https://github.com/moosongsong)                                     |
+| [큐](./02_자료구조/06_큐.md)                 | [송무송](https://github.com/moosongsong), [조은진](https://github.com/eunn-jin) |
+| [덱](./02_자료구조/07_덱.md)                 | [송무송](https://github.com/moosongsong)                                     |
+| [우선순위 큐](./02_자료구조/08_우선순위큐.md)        | [송무송](https://github.com/moosongsong)                                     |
+| [그래프](./02_자료구조/09_그래프.md)             | [조은진](https://github.com/eunn-jin)                                        |
+| [트리](./02_자료구조/10_트리.md)               | [송무송](https://github.com/moosongsong)                                     |
+| [힙](./02_자료구조/11_힙.md)                 | [조은진](https://github.com/eunn-jin)                                        |
+| [셋](./02_자료구조/12_셋.md)                 | [송무송](https://github.com/moosongsong)                                     |
+| [맵](./02_자료구조/13_맵.md)                 | [조은진](https://github.com/eunn-jin)                                        |
+| [해시테이블](./02_자료구조/14_해시테이블.md)         | [조은진](https://github.com/eunn-jin)                                        |
+
 ## 🧩 디자인 패턴
 
 | 제목                                                       | 작성자                                   |
@@ -39,20 +58,3 @@ BE 주니어라면 다 알아야 하는 CS 지식
 | [템플릿 메소드 (Template Method)](./01_디자인패턴/22_템플릿.md)        | [송무송](https://github.com/moosongsong) |
 | [방문자 (Visitor)](./01_디자인패턴/23_방문자.md)                    | [송무송](https://github.com/moosongsong) |
 
-## 📐 자료구조
-
-| 제목                                     | 작성자                                   |
-|----------------------------------------|---------------------------------------|
-| [시간복잡도와 공간복잡도](./02_자료구조/01_시공간복잡도.md) | [조은진](https://github.com/eunn-jin)    |
-| [배열](./02_자료구조/02_배열.md)               | [송무송](https://github.com/moosongsong) |
-| [연결리스트](./02_자료구조/03_연결리스트.md)         | [조은진](https://github.com/eunn-jin)    |
-| [백터](./02_자료구조/04_백터.md)               | [조은진](https://github.com/eunn-jin)    |
-| [스택](./02_자료구조/05_스택.md)               | [송무송](https://github.com/moosongsong) |
-| [큐](./02_자료구조/06_큐.md)                 | [송무송](https://github.com/moosongsong) |
-| [그래프](./02_자료구조/07_그래프.md)             | [조은진](https://github.com/eunn-jin)    |
-| [트리](./02_자료구조/08_트리.md)               | [송무송](https://github.com/moosongsong) |
-| [힙](./02_자료구조/09_힙.md)                 | [조은진](https://github.com/eunn-jin)    |
-| [우선순위 큐](./02_자료구조/10_우선순위큐.md)        | [송무송](https://github.com/moosongsong) |
-| [맵](./02_자료구조/11_맵.md)                 | [조은진](https://github.com/eunn-jin)    |
-| [셋](./02_자료구조/12_셋.md)                 | [송무송](https://github.com/moosongsong) |
-| [해시테이블](./02_자료구조/13_해시테이블.md)         | [조은진](https://github.com/eunn-jin)    |
