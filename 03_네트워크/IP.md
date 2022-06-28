@@ -18,12 +18,14 @@ ARP(Address Resolution Protocol)란 IP 주소로부터 MAC 주소를 구하는 I
 - 해당 주소에 맞는 장치 B가 ‘ARP reply 유니캐스트’를 통해 MAC 주소를 반환하는 과정을 거쳐 IP 주소에 맞는 MAC 주소를 찾게 됩니다.
 
 :::warning 용어
-
 **브로드캐스트**  
 송신 호스트가 전송한 데이터가 네트워크에 연결된 모든 호스트에 전송되는 방식
 
 **유니캐스트**  
 고유 주소로 식별된 하나의 네트워크 목적지에 1:1로 데이터를 전송하는 방식
+
+**멀티캐스트**  
+UDP 기반으로 하나 이상의 송신자들이 특정한 그룹에 속해있는 하나 이상의 수신자들에게 데이터를 전송하는 방식
 :::  
 
 ## 홉바이홉 통신
@@ -183,3 +185,4 @@ NAT(Network Address Translation)는 패킷이 라우팅 장치를 통해 전송�
 - [the book:전공지식 노트](https://thebook.io/080326/ch01/02/)
 - [My Own Style:티스토리](https://sjlim5092.tistory.com/16)
 - [leeesangheee:velog](https://velog.io/@leeesangheee/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%90%EC%8B%A4-4%EC%9E%A5.-%EB%9D%BC%EC%9A%B0%ED%8C%85)
+- [sjlim5092:티스토리](https://sjlim5092.tistory.com/24?category=763426)
