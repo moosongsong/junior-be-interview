@@ -72,4 +72,4 @@ BE 주니어라면 다 알아야 하는 CS 지식
 - [전략 (Strategy) 패턴](./01_디자인패턴/21_전략.md) - 무송
 - [템플릿 메소드 (Template Method) 패턴](./01_디자인패턴/22_템플릿.md) - 무송
 - [방문자 (Visitor) 패턴](./01_디자인패턴/23_방문자.md) - 무송
-- [MVC vs MVP vs MVVM 패턴](./01_디자인패턴/24_MVC%20vs%20MVP%20vs%20MVVM%20패턴.md) - 무송
+- [MVC vs MVP vs MVVM 패턴](./01_디자인패턴/MVC%20vs%20MVP%20vs%20MVVM%20패턴.md) - 무송
