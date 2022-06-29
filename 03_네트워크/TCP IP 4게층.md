@@ -1,6 +1,6 @@
 # TCP/IP 4계층 모델 & PDU
 
-## OSI 7계층과 TCP/IP 계층
+## OSI 7계층과 TCP/IP 4계층
 ![계층모델](https://user-images.githubusercontent.com/79966015/176059897-52d5ece0-fad1-432b-90d3-db8980322c6a.PNG)  
 TCP/IP 계층 모델은 OSI 모델이 탄생하기 전에 미국 국방부가 개발한 프로토콜입니다. 
 4개의 레이어로 구성되어 있으며, 네트워킹을 위한 표준 프로토콜 모델로 간주됩니다.
