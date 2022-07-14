@@ -1,10 +1,12 @@
 addReviewers: true
 
-addAssignees: true
+addAssignees: author
 
 reviewers:
   - moosongsong
   - eunn-jin
+  - 조은진
+  - Moosong
 
 skipKeywords:
   - wip
