@@ -9,7 +9,9 @@
 - 개념적 데이터 모델링
     - 일의 데이터 간의 관계를 구상하는 단계입니다.
     - 엔터티-관계 다이어그램(ERD)를 생성하는 것입니다.
-    - 예시  
+    - 방법  
+      ![개념모델링](https://user-images.githubusercontent.com/79966015/179434886-68ba09bd-e038-451b-94b5-f975d915e35d.PNG)
+    - 예시
       ![ERD_개념](https://user-images.githubusercontent.com/79966015/179433359-9fc3e5d4-bb98-4bc6-a516-3e6f7c17de8f.PNG)
 - 논리적 데이터 모델링
     - 구체화된 업무중심의 데이터 모델을 만들어 내는 단계입니다.
@@ -48,7 +50,7 @@
     - NOT NULL
         - Null을 비허용하면 Not Null이라고 적거나, N을 적습니다.
         - Null을 허용한다면 아무것도 적지 않습니다.
-    - FK
+    - FK(Foreign key)
         - PK와 다른색의 열쇠 아이콘으로 나타납니다.
         - FK라고 작성하여 표시하기도 합니다.
 - 선긋기
@@ -81,6 +83,10 @@
 - [ERD CLOUD](https://www.erdcloud.com/)
     - 개인 ERD뿐만 아니라 팀과 같이 ERD를 작성할 수도 있어서 편리합니다.
     - 다른 사람들이 작성한 ERD를 찾아볼 수 있습니다.
+
+- [draw.io](https://app.diagrams.net/)
+    - ERD뿐만 아니라 다양한 다이어그램을 작성할 수 있는 사이트입니다.
+    - 공유가 가능하여 다른 사람들과 같이 작성할 수 있습니다.
 
 ### 참고자료
 
