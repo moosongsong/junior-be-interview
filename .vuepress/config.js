@@ -119,6 +119,13 @@ module.exports = {
                     '/01_디자인패턴/22_템플릿',
                     '/01_디자인패턴/23_방문자',
                 ]
+            },
+            {
+                title: '☕ JAVA',
+                collapsable: true,
+                children: [
+                    '/06_자바/01_자바버전별차이',
+                ]
             }
         ]
     }
