@@ -20,6 +20,14 @@ module.exports = {
                 ]
             },
             {
+                title: '서블릿',
+                collapsable: true,
+                children: [
+                    '/07_서블릿/서블릿',
+                    '/07_서블릿/서블릿의%20라이프%20사이클',
+                ]
+            },
+            {
                 title: '💽 운영체제',
                 collapsable: true,
                 children: [
