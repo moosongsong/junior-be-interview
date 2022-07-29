@@ -133,6 +133,7 @@ module.exports = {
                 collapsable: true,
                 children: [
                     '/06_자바/01_자바버전별차이',
+                    '/06_자바/02_Wrapper_Class',
                 ]
             }
         ]
