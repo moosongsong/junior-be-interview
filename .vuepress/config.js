@@ -20,14 +20,6 @@ module.exports = {
                 ]
             },
             {
-                title: '서블릿',
-                collapsable: true,
-                children: [
-                    '/07_서블릿/서블릿',
-                    '/07_서블릿/서블릿의%20라이프%20사이클',
-                ]
-            },
-            {
                 title: '💽 운영체제',
                 collapsable: true,
                 children: [
@@ -134,6 +126,21 @@ module.exports = {
                 children: [
                     '/06_자바/01_자바버전별차이',
                     '/06_자바/02_Wrapper_Class',
+                ]
+            },
+            {
+                title: '⚡ 서블릿',
+                collapsable: true,
+                children: [
+                    '/07_서블릿/서블릿',
+                    '/07_서블릿/서블릿의%20라이프%20사이클',
+                ]
+            },
+            {
+                title: '☘ 스프링',
+                collapsable: true,
+                children: [
+                    '/08_스프링/01_SpringFramework_SpringBoot',
                 ]
             }
         ]
