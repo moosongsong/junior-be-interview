@@ -144,6 +144,13 @@ module.exports = {
                 children: [
                     '/08_스프링/01_SpringFramework_SpringBoot',
                 ]
+            },
+            {
+                title: '웹',
+                collapsable: true,
+                children: [
+                    '/09_웹/쿠키와%20세션',
+                ]
             }
         ]
     }
