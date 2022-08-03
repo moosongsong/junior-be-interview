@@ -66,6 +66,7 @@ module.exports = {
                     '/03_네트워크/IP',
                     '/03_네트워크/HTTP%20버전',
                     '/03_네트워크/HTTPS',
+                    '/03_네트워크/쿠키와%20세션',
                 ]
             },
             {
@@ -143,13 +144,6 @@ module.exports = {
                 collapsable: true,
                 children: [
                     '/08_스프링/01_SpringFramework_SpringBoot',
-                ]
-            },
-            {
-                title: '웹',
-                collapsable: true,
-                children: [
-                    '/09_웹/쿠키와%20세션',
                 ]
             }
         ]
