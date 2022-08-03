@@ -143,6 +143,7 @@ module.exports = {
                 collapsable: true,
                 children: [
                     '/08_스프링/01_SpringFramework_SpringBoot',
+                    '/08_스프링/02_Spring_AOP',
                 ]
             }
         ]
