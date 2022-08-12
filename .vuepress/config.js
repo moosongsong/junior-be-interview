@@ -148,6 +148,13 @@ module.exports = {
                     '/08_스프링/01_SpringFramework_SpringBoot',
                     '/08_스프링/02_Spring_AOP',
                 ]
+            },
+            {
+                title: '자바스크립트',
+                collapsable: true,
+                children: [
+                    '/09_자바스크립트/01_Window,DOM,BOM',
+                ]
             }
         ]
     }

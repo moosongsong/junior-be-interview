@@ -116,3 +116,7 @@ BE 주니어라면 다 알아야 하는 CS 지식
 
 - [Spring Framework와 SpringBoot](./08_스프링/01_SpringFramework_SpringBoot.md)
 - [Spring AOP](./08_스프링/02_Spring_AOP.md)
+
+## 자바스크립트
+
+- [Window, DOM, BOM](/09_자바스크립트/01_Window,DOM,BOM.md)
