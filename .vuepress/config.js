@@ -137,13 +137,13 @@ module.exports = {
                 title: '⚡ 서블릿',
                 collapsable: true,
                 children: [
-                    '/07_서블릿/서블릿',
-                    '/07_서블릿/서블릿의%20라이프%20사이클',
-                    '/07_서블릿/포워딩과%20리다이렉트.md',
+                    '/07_서블릿/01_서블릿',
+                    '/07_서블릿/02_서블릿의%20라이프%20사이클',
+                    '/07_서블릿/03_포워딩과%20리다이렉트.md',
                 ]
             },
             {
-                title: '☘ 스프링',
+                title: '🍃 스프링',
                 collapsable: true,
                 children: [
                     '/08_스프링/01_SpringFramework_SpringBoot',
@@ -151,7 +151,7 @@ module.exports = {
                 ]
             },
             {
-                title: '자바스크립트',
+                title: '📜 자바스크립트',
                 collapsable: true,
                 children: [
                     '/09_자바스크립트/01_Window,DOM,BOM',
