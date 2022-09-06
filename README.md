@@ -5,6 +5,8 @@ BE 주니어라면 다 알아야 하는 CS 지식
 [https://moosongsong.github.io/junior-be-interview](https://moosongsong.github.io/junior-be-interview)
 🎉
 
+- 레포 주인 취업해서 바빠서 뜨문뜨문 올라올 예정
+
 ## 💡 IT 상식
 
 - [선언형 프로그래밍과 함수형 프로그래밍](./00_IT상식/선언형%20함수형.md)
